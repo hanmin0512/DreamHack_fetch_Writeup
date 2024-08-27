@@ -1,2 +1,2 @@
-# DreamHack fetch Writeup
+# DreamHack petch Writeup
 워게임 주소: https://dreamhack.io/wargame/challenges/49/
